@@ -1,5 +1,8 @@
 # Convolutional-Neural-Network-for-Movie-classification
 
+
+# Abstract
+
 Over the last few decades, Artificial Neural Networks are showing great performances is many fields such as voice and face recognition, generating new Data, language translation, Image classification and much more. One of the most popular deep neural networks is the Convolutional Neural Network (CNN). The interest in having Convolution connected to a deep NN has recently begun to surpass classical methods performance in different fields; especially in pattern recognition. CNN take this name from mathematical linear operation between matrixes called convolution. They have multiple layers; including convolutional layer, non-linearity layer, pooling layer and fully-connected layer.
 Among different type of models, Convolutional neural networks has been demonstrated high performance on image classification. In this project we built a Convolutional neural network for Movie Poster multi-label (genres) classification of Movies. The data set used was taken from Kaggle1 and originally collected from IMDB website. It contains 41K different movie Posters . Additionally, there is a file containing the labels of each movie i.e. to each movie is associated the number 1 if it belongs to a specific genre, otherwise 0. In this paper we will explain how we used a Convolutional Neural Network in order to perform Movie Genre Classification based on Movie Posters and because a movie may belong to multiple genres, this is a multi-label image classification problem. In addition, we will also state the parameters that effect CNN efficiency and how CNN was implemented to obtain good results to classify the images.
 
@@ -71,4 +74,3 @@ This work was done in the frame of the Course “Deep Learning and Natural Langu
 
 
 
-# Abstract
