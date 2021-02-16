@@ -1,4 +1,4 @@
-# Convolutional-Neural-Network-for-Movie-classification
+# Convolutional Neural Network for Movie Poster Genre Classification
 
 
 # Abstract
