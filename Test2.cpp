@@ -69,6 +69,19 @@ TEST_CASE("Board operator[] and isclean function"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+
 
 }
 

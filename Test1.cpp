@@ -221,14 +221,7 @@ TEST_CASE("functions"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
+
 
 
 }
@@ -283,14 +276,4 @@ TEST_CASE("other"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    
-
-
 }

@@ -69,19 +69,6 @@ TEST_CASE("Board operator[] and isclean function"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-    CHECK(true != false);
-
 
 }
 
@@ -221,7 +208,14 @@ TEST_CASE("functions"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
-
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
 
 
 }
@@ -276,4 +270,18 @@ TEST_CASE("other"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    CHECK(true != false);
+    for (size_t i = 0; i < 100; i++)
+    {
+        cout << "גם אני התגעגעתי סתיו" << endl;
+    }
+    
+
+
 }
