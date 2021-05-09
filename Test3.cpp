@@ -277,10 +277,7 @@ TEST_CASE("other"){
     CHECK(true != false);
     CHECK(true != false);
     CHECK(true != false);
-    for (size_t i = 0; i < 100; i++)
-    {
-        cout << "גם אני התגעגעתי סתיו" << endl;
-    }
+    
     
 
 
